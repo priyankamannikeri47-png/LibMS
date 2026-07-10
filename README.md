@@ -75,4 +75,4 @@ npm run dev
 
 # open your localhost:5000 in browser to see UI
 
-### Owner  - wasim k
+### Owner  - Priyanka M
